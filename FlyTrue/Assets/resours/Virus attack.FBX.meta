@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: 8d177362c7cbcfe498ec7c8533d1597a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arc002
+    100002: Cone001
+    100004: Cone007
+    100006: Cone008
+    100008: Cone009
+    100010: Cone010
+    100012: Cone011
+    100014: Cone012
+    100016: Cone013
+    100018: Cone014
+    100020: Cone015
+    100022: Cone016
+    100024: Cone017
+    100026: Cone018
+    100028: Cone019
+    100030: Cone020
+    100032: Cylinder006
+    100034: Cylinder007
+    100036: Cylinder008
+    100038: Cylinder009
+    100040: //RootNode
+    400000: Arc002
+    400002: Cone001
+    400004: Cone007
+    400006: Cone008
+    400008: Cone009
+    400010: Cone010
+    400012: Cone011
+    400014: Cone012
+    400016: Cone013
+    400018: Cone014
+    400020: Cone015
+    400022: Cone016
+    400024: Cone017
+    400026: Cone018
+    400028: Cone019
+    400030: Cone020
+    400032: Cylinder006
+    400034: Cylinder007
+    400036: Cylinder008
+    400038: Cylinder009
+    400040: //RootNode
+    2100000: 01 - Default
+    2100002: 09 - Default
+    2100004: 08 - Default
+    2100006: 02 - Default
+    2100008: 'Material #3'
+    2100010: No Name
+    2100012: 10 - Default
+    2300000: Arc002
+    2300002: Cone001
+    2300004: Cone007
+    2300006: Cone008
+    2300008: Cone009
+    2300010: Cone010
+    2300012: Cone011
+    2300014: Cone012
+    2300016: Cone013
+    2300018: Cone014
+    2300020: Cone015
+    2300022: Cone016
+    2300024: Cone017
+    2300026: Cone018
+    2300028: Cone019
+    2300030: Cone020
+    2300032: Cylinder006
+    2300034: Cylinder007
+    2300036: Cylinder008
+    2300038: Cylinder009
+    2300040: //RootNode
+    3300000: Arc002
+    3300002: Cone001
+    3300004: Cone007
+    3300006: Cone008
+    3300008: Cone009
+    3300010: Cone010
+    3300012: Cone011
+    3300014: Cone012
+    3300016: Cone013
+    3300018: Cone014
+    3300020: Cone015
+    3300022: Cone016
+    3300024: Cone017
+    3300026: Cone018
+    3300028: Cone019
+    3300030: Cone020
+    3300032: Cylinder006
+    3300034: Cylinder007
+    3300036: Cylinder008
+    3300038: Cylinder009
+    3300040: //RootNode
+    4300000: Sphere001
+    4300002: Arc002
+    4300004: Cone001
+    4300006: Cone007
+    4300008: Cone008
+    4300010: Cone009
+    4300012: Cone010
+    4300014: Cone011
+    4300016: Cone012
+    4300018: Cone013
+    4300020: Cone014
+    4300022: Cone015
+    4300024: Cone016
+    4300026: Cone017
+    4300028: Cone018
+    4300030: Cone019
+    4300032: Cone020
+    4300034: Cylinder006
+    4300036: Cylinder007
+    4300038: Cylinder008
+    4300040: Cylinder009
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.2633229
+        functionName: ATK000
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.newunityproject2.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\user\\Desktop\\AB1030\\AB1028\\AB1024\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "FlyTrue [Testing]"
+        }
+      }
+    }
+  ]
+}

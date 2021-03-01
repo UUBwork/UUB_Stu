@@ -1,0 +1,12 @@
+{
+   "action_manifest_version" : 0,
+   "alias_info" : {},
+   
+   "bindings" : {},
+   "category" : "steamvr_input",
+   "controller_type" : "vive_tracker",
+   "description" : "",
+   "name" : "我為 Vive Tracker 設定的 New Unity Project (2) [Testing] 配置",
+   "options" : {},
+   "simulated_actions" : []
+}
